@@ -1,0 +1,13 @@
+# Arquivos e diretórios a serem ignorados pelo Git
+
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Arquivos gerados por IDEs e editores de texto
+.idea/
+.vscode/
+
+# Dependências e ambientes virtuais
+myenv/
